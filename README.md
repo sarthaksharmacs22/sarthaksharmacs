@@ -20,9 +20,5 @@ I love building real-world projects and solving problems through code.
   [GitHub Repo Link]
 
 - **AI Exam Proctoring System**  
-  Detects cheating during online exams using YOLOv8 + MediaPipe  
-  [GitHub Repo Link]
-
-
-> “Keep coding, keep building — and let your work speak louder than your resume!”
+  Detects cheating during online exams using YOLOv8 + MediaPipe
 
