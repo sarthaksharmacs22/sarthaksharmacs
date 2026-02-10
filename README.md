@@ -1,24 +1,26 @@
-### Hi, I'm Sarthak Sharma! 👋
+# Hi, I'm Sarthak Sharma
 
-I'm a passionate Computer Science student from GLA University, Mathura.  
-I love building real-world projects and solving problems through code.
+Final-year B.Tech Computer Science student passionate about building real-world software and AI-powered systems.
 
-- 🔭 Currently learning: Data Structures & Algorithms (via Kunal Kushwaha)
-- ⚡ Interested in: Full Stack Development | AI/ML | Open Source
-- 💼 Looking for: SDE Internships and entry-level SDE roles
-- 📫 How to reach me: sarthaksharma1237@gmail.com
-- 💻 Languages: Python, Java, C, JavaScript
+## Technical Skills
+- Languages: Python, Java, SQL, C
+- Core CS: Data Structures, Algorithms, OOP's, DBMS, OS, Computer Networking, Software Engineering, Cryptography and Network Security 
+- Backend: Flask, REST APIs
+- AI/ML: Computer Vision, NLP, Deep Learning
+- GenAI: LangChain, Hugging Face, RAG, Vector Databases
+- Tools: Git, GitHub, Linux
 
-**Tech Stack:**  
-`Python` `Java` `C` `HTML` `CSS` `JavaScript` `Node.js` `MongoDB`   
+## Notable Projects
+- Automatic License Plate Recognition (YOLOv8)
+- Medical AI Chatbot with RAG
+- Facial Recognition Attendance System
+- Smart City Transport Management System (Java OOP)
 
----
+## Achievements
+- 1st Prize – Inter-University Project Hackathon
+- ML & Data Science Certification – Coding Blocks
 
-### 📌 Featured Projects
-- **Facial Recognition Attendance System**  
-  AI-based attendance with login/logout timing and emotion analysis  
-  [GitHub Repo Link]
-
-- **AI Exam Proctoring System**  
-  Detects cheating during online exams using YOLOv8 + MediaPipe
+## Links
+- LinkedIn: (https://www.linkedin.com/in/sarthak-sharma-31aa8a250/)
+- LeetCode: (https://leetcode.com/u/sarthaksharma_cs22/)
 
